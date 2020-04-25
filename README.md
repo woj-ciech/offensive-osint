@@ -1,2 +1,2 @@
 # offensive-osint
-Scripts related to offensiveosint.io
+Everything related to https://offensiveosint.io
